@@ -9,7 +9,7 @@ function showAlert() {
     }
 }
 
-// Show the alert when the page loads
+
 window.onload = function() {
     showAlert();
 }
