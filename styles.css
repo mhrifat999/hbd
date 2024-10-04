@@ -163,7 +163,7 @@ h1 {
 	font-size: 3rem;
 }
 h1::after{
-	content: 'TAMIM';
+	content: 'RITHIN';
 	position: absolute;
 	top: 2%; left: 1%;
 	font-size: 2rem;
