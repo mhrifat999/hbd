@@ -1,11 +1,11 @@
 function showAlert() {
-    if (confirm("Vaiyo aijja ki tmr jonmodin?")) {
-        alert("Aijja oile click maro");
-        alert("AREH VAHHH!!!!..tmi dehi hasaoi click marso..Taile arekta maro")
+    if (confirm("APPU aijja ki APNAR jonmodin?")) {
+        alert("Aijja oile click maren");
+        alert("AREH VAHHH!!!!..apni dehi hasaoi click marsen..Taile arekta maren")
     } else {
-        alert("na oile harse...TMI BOLOd");
-        alert("Aijja oi miya..kalka koira luv nai")
-        alert("Kalk oileo ogrim janaiya rakhlam..current beshikhn thakena")
+        alert("na oile harse...apni BOLOd");
+        alert("Aijja oi miya..ami mone korsi 8 tarikh. maf koiren")
+        alert("toi bolod hala")
     }
 }
 
