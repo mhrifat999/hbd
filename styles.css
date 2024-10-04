@@ -200,7 +200,7 @@ h1::after{
 	top:40px;
 }
 .my-cake::after {
-	content: '20';
+	content: '19';
 	position: absolute;
 	top: 11%;left: 1%;
 	font-size: 6em;
