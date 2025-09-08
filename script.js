@@ -4,8 +4,8 @@ function showAlert() {
         alert("AREH VAHHH!!!!..apni dehi hasaoi click marsen..Taile arekta maren")
     } else {
         alert("na oile harse...apni BOLOd");
-        alert("Aijja oi miya..ami mone korsi 8 tarikh. maf koiren")
-        alert("toi bolod hala")
+        alert("Aijja oi miya..Anyway gift dite parlamna but treat cai")
+    
     }
 }
 
