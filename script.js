@@ -1,5 +1,5 @@
 function showAlert() {
-    if (confirm("APPU aijja ki APNAR jonmodin?")) {
+    if (confirm("KIYO aijja ki APNAR jonmodin?")) {
         alert("Aijja oile click maren");
         alert("AREH VAHHH!!!!..apni dehi hasaoi click marsen..Taile arekta maren")
     } else {
